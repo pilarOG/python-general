@@ -1,4 +1,5 @@
 # Taken from the Udemy course https://www.udemy.com/python-beyond-the-basics-object-oriented-programming/learn/v4/content
+# Material about magic methods https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf
 
 # Example of built-ins inheritance to specify behavior given polimorphic interfaces of magic methods
 
